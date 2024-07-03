@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
-A python module that datermines whether all boxes can be opened from a list of lists.
+A python module that datermines whether all boxes
+can be opened from a list of lists.
 """
 
 
