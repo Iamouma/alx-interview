@@ -1,8 +1,8 @@
-Toggle navigation
+### Toggle navigation
 Curriculum
 Short Specializations
 Average: 142.95%
-0x08. Making Change
+### 0x08. Making Change
 Algorithm
 Python
  Weight: 1
@@ -11,7 +11,7 @@ Python
  An auto review will be launched at the deadline
 For the “0. Change comes from within” project, you will tackle a classic problem from the domain of dynamic programming and greedy algorithms: the coin change problem. The objective is to find the minimum number of coins required to make up a given total amount, given a list of coin denominations. This project challenges you to apply your understanding of algorithms to devise a solution that is not only correct but also efficient. Below are the key concepts and resources necessary to complete this project successfully.
 
-Concepts Needed:
+### Concepts Needed:
 Greedy Algorithms:
 
 Understanding how greedy algorithms work and why they are suitable for the coin change problem.
@@ -32,7 +32,7 @@ Python Programming:
 
 Manipulating lists and using list comprehensions.
 Implementing functions with efficient looping and conditional statements.
-Resources:
+### Resources:
 Python Official Documentation:
 
 More Control Flow Tools (for loops, if statements)
